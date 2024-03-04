@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/unibik/unibik.github.io.git
+	branch = main
+[submodule "unibik/public"]
+	path = unibik/public
+	url = https://github.com/unibik/unibik.github.io.git
+	branch = main
